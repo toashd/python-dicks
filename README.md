@@ -1,4 +1,4 @@
-Description
+python-dicks
 --
 A Python interface for the [Dicks API](http://dicks-api.herokuapp.com)
 
