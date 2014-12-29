@@ -8,7 +8,6 @@ import json as simplejson
 from dicks import DicksError
 
 class Client(object):
-    _API_REALM = 'Dicks API'
 
     def __init__(self, base_url=None):
         if base_url is None:
